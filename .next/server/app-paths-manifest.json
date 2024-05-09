@@ -1,0 +1,8 @@
+{
+  "/contact/page": "app/contact/page.js",
+  "/personalbot/page": "app/personalbot/page.js",
+  "/career/page": "app/career/page.js",
+  "/explore/page": "app/explore/page.js",
+  "/explore/software-dev/page": "app/explore/software-dev/page.js",
+  "/courses/page": "app/courses/page.js"
+}
