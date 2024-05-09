@@ -7,5 +7,4 @@ CareerFlare is an innovative platform designed to revolutionize the way individu
 - **Career Exploration:** Explore diverse career paths and job roles.
 - **Skill Development:** Access personalized learning resources for skill enhancement.
 - **Job Search:** Utilize the Personal Bot for automated job and internship searches.
-- **Resume Analysis:** Analyze resumes using NLP for job application improvements.
 - **Course Recommendations:** Receive course recommendations based on career interests.
